@@ -1,5 +1,5 @@
 # Interactive Plotly Visualization
-cleaned_data.csv: cleaned data used to create visualizations
+[cleaned_data.csv](../blob/master/cleaned_data.csv): cleaned data used to create visualizations
 
 ### Visualize the whole dataset - The Big Picture
 [movie genre network.py](../blob/master/movie%20genre%20network%20-%20interactive.py): plots a giant network where movies and genres are nodes and the edges represents ‘belong to’. Note a movie may have more than one genres. The size of the nodes represents the degrees. Allow for selected different color scale for both nodes and edges.
@@ -26,7 +26,7 @@ cleaned_data.csv: cleaned data used to create visualizations
 1. Basic Analysis with [igraph](https://igraph.org/python/)
 <img src = "Images/Genre Network igraph.png" height = "400">
 
-2. Cluster Analysis with [networkx](https://networkx.github.io/)
+2. Cluster Analysis with [NetworkX](https://networkx.github.io/)
 
 <img src = "Images/Genre%20Network%20NX.png" height = "400">
 
