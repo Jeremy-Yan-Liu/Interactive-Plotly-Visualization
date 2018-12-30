@@ -22,7 +22,7 @@
 <img src = "Images/radar chart.png" height = "400">
                                                   
 ### Network graph
-[networkanalysis.py](../blob/master/network%20analysis.py): extracts desired subset of cleaned data and conducts basic network analysis and clustering analysis.
+[network analysis.py](../blob/master/network%20analysis.py): extracts desired subset of cleaned data and conducts basic network analysis and clustering analysis.
 
 1. Basic Analysis with [igraph](https://igraph.org/python/)
 <img src = "Images/Genre Network igraph.png" height = "400">
