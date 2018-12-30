@@ -7,6 +7,7 @@
 <img src = "Images/Big%20Picture%20Node.jpg" height = "400">
 
 <img src = "Images/Big%20Picture%20Edge.jpg" height = "400">
+
 ### Treemap
 [treemap.py](../blob/master/treemap%20-%20interactive.py): plots tree map of movie gross of 1987, 1997, 2007, 2017.
 
