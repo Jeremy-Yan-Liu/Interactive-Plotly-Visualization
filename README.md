@@ -17,7 +17,7 @@
 <img src = "Images/Valence%20Line%20Chart.gif" height = "500">
             
 ### Radar Chart 
-[radar chart.py](../blob/master/radar%20chart-%20interactive.py): plots radar chart comparing two sound tracks’ six musical attributes in a single movie based on users’ choice. It’s actually an Dash app supported by poorly. The code running result is a domain where the result is showed. Must open the domain manually and then select anything you want.
+[radar chart.py](../blob/master/radar%20chart-%20interactive.py): plots radar chart comparing two sound tracks’ six musical attributes in a single movie based on users’ choice. It’s actually an [Dash](https://plot.ly/products/dash/) app supported by [plotly](https://plot.ly/#/). The code running result is a domain where the result is showed. Must open the domain manually and then select anything you want.
 <img src = "Images/radar chart.png" height = "400">
                                                   
 ### Network graph
