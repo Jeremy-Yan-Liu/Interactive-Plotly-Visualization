@@ -14,6 +14,7 @@
 
 ### Line Chart 
 [line chart.py](../blob/master/valence%20line%20chart%20-%20interactive.py): selects four Harry Potter movies and plot the valence, the level of positiveness or negativeness of a track, change in the order of the soundtracks in the album (which happen to follow the order of when they are used in the movie, thus a good indicator of movie plots). The name of the track could serve as a short summary of the plot of the whole story.
+
 <img src = "Images/Valence%20Line%20Chart.gif" height = "500">
             
 ### Radar Chart 
