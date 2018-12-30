@@ -2,7 +2,7 @@
 cleaned_data.csv: cleaned data used to create visualizations
 
 ### Visualize the whole dataset - The Big Picture
-[movie genre network - interactive.py](../blob/master/movie%20genre%20network%20-%20interactive.py): plots a giant network where movies and genres are nodes and the edges represents ‘belong to’. Note a movie may have more than one genres. The size of the nodes represents the degrees. Allow for selected different color scale for both nodes and edges.
+[movie genre network.py](../blob/master/movie%20genre%20network%20-%20interactive.py): plots a giant network where movies and genres are nodes and the edges represents ‘belong to’. Note a movie may have more than one genres. The size of the nodes represents the degrees. Allow for selected different color scale for both nodes and edges.
 
 ### Treemap
 [treemap.py](../blob/master/treemap%20-%20interactive.py): plots tree map of movie gross of 1987, 1997, 2007, 2017.
@@ -32,7 +32,7 @@ cleaned_data.csv: cleaned data used to create visualizations
 
 3. 3D Visualization with [plotly](../blob/master/network%20analysis.py) 
 
-<img src = "Images/3D%20Network%20Graph.jpg" height = "400">
+<img src = "Images/3D%20Network%20Graph.png" height = "400">
 
 
 
