@@ -10,7 +10,7 @@ cleaned_data.csv: cleaned data used to create visualizations
 
 ### Line Chart 
 [line chart.py](../blob/master/valence%20line%20chart%20-%20interactive.py): selects four Harry Potter movies and plot the valence, the level of positiveness or negativeness of a track, change in the order of the soundtracks in the album (which happen to follow the order of when they are used in the movie, thus a good indicator of movie plots). The name of the track could serve as a short summary of the plot of the whole story.
-<img src = "Images/Valence%20Line%20Chart.gif" height = "600">
+<img src = "Images/Valence%20Line%20Chart.gif" height = "500">
             
 ### Radar Chart 
 [radar chart.py](../blob/master/radar%20chart-%20interactive.py): plots radar chart comparing two sound tracks’ six musical attributes in a single movie based on users’ choice. It’s actually an Dash app supported by poorly. The code running result is a domain where the result is showed. Must open the domain manually and then select anything you want.
