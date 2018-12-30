@@ -4,9 +4,9 @@
 ### Visualize the whole dataset - The Big Picture
 [movie genre network.py](../blob/master/movie%20genre%20network%20-%20interactive.py): plots a giant network where movies and genres are nodes and the edges represents ‘belong to’. Note a movie may have more than one genres. The size of the nodes represents the degrees. Allow for selected different color scale for both nodes and edges.
 
-<img src = "Images/Big-Picture-Node.jpg" height = "400">
+<img src = "Images/Big%20Picture%20Node.jpg" height = "400">
 
-<img src = "Images/Big-Picture-Edge.jpg" height = "400">
+<img src = "Images/Big%20Picture%20Edge.jpg" height = "400">
 ### Treemap
 [treemap.py](../blob/master/treemap%20-%20interactive.py): plots tree map of movie gross of 1987, 1997, 2007, 2017.
 
