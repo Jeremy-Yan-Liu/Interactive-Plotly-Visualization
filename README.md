@@ -5,8 +5,8 @@ cleaned_data.csv: cleaned data used to create visualizations
 
 <img src = "Images/squarify-treemap-interactive-1.png" height = "400">
 
-slider - interactive.py: plots bubble chart of movie rating as x-axis, movie runtime as y-axis, movie gross as the size of bubble, movie year as the slider and movie genre as the color of the bubble. It should run in the Jupyter notebook in order to see the output animation. This python script will not show the animation but runs well.
-<img src = "Images/radar chart.png">
+[bubble chart animation.ipynb]: plots bubble chart of movie rating as x-axis, movie runtime as y-axis, movie gross as the size of bubble, movie year as the slider and movie genre as the color of the bubble. It should run in the Jupyter notebook in order to see the output animation. 
+<img src = "Images/bubble chart animation.png">
 
 ### Line Chart 
 [line chart.py](../blob/master/valence%20line%20chart%20-%20interactive.py): selects four Harry Potter movies and plot the valence, the level of positiveness or negativeness of a track, change in the order of the soundtracks in the album (which happen to follow the order of when they are used in the movie, thus a good indicator of movie plots). The name of the track could serve as a short summary of the plot of the whole story.
