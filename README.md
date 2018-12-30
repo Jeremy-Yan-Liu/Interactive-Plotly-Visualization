@@ -9,7 +9,7 @@ cleaned_data.csv: cleaned data used to create visualizations
 
 <img src = "Images/squarify-treemap-interactive-1.png" height = "400">
 
-[bubble chart animation.ipynb] : plots bubble chart of movie rating as x-axis, movie runtime as y-axis, movie gross as the size of bubble, movie year as the slider and movie genre as the color of the bubble. It should run in the Jupyter notebook in order to see the output animation. 
+[bubble chart animation.ipynb](../blob/master/bubble%20chart%20animation.ipynb) : plots bubble chart of movie rating as x-axis, movie runtime as y-axis, movie gross as the size of bubble, movie year as the slider and movie genre as the color of the bubble. It should run in the Jupyter notebook in order to see the output animation. 
 <img src = "Images/Bubble%20Chart%20Animation.gif">
 
 ### Line Chart 
