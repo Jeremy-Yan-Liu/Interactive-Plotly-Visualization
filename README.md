@@ -1,5 +1,9 @@
 # Plotly-Visualization
 cleaned_data.csv: cleaned data used to create visualizations
+
+### Visualize the whole dataset - The Big Picture
+[movie genre network - interactive.py](../blob/master/movie%20genre%20network%20-%20interactive.py): plots a giant network where movies and genres are nodes and the edges represents ‘belong to’. Note a movie may have more than one genres. The size of the nodes represents the degrees. Allow for selected different color scale for both nodes and edges.
+
 ### Treemap
 [treemap.py](../blob/master/treemap%20-%20interactive.py): plots tree map of movie gross of 1987, 1997, 2007, 2017.
 
@@ -17,11 +21,13 @@ cleaned_data.csv: cleaned data used to create visualizations
 <img src = "Images/radar chart.png" height = "400">
                                                   
 ### Network graph
+[networkanalysis.py](../blob/master/network%20analysis.py): extracts desired subset of cleaned data and conducts basic network analysis and clustering analysis.
 1. Basic Analysis with [igraph](../blob/master/network%20analysis.py)
-2. Cluster Analysis with [networkx](../blob/master/network%20analysis.py)
-3. 3D Visualization with [plotly](../blob/master/network%20analysis.py)
-
-movie genre network - interactive.py: plots a giant network where movies and genres are nodes and the edges represents ‘belong to’. Note a movie may have more than one genres. The size of the nodes represents the degrees. Allow for selected different color scale for both nodes and edges.
-
-networkanalysis.py: extracts desired subset of cleaned data and conducts basic network analysis and clustering analysis.
 <img src = "Images/Genre Network NX.png" height = "400">
+2. Cluster Analysis with [networkx](../blob/master/network%20analysis.py)
+<img src = "Images/Genre%20Network%20NX.png" height = "400">
+3. 3D Visualization with [plotly](../blob/master/network%20analysis.py)
+<img src = "Images/3D%20Network%20Graph.jpg" height = "400">
+
+
+
