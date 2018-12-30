@@ -22,6 +22,7 @@ cleaned_data.csv: cleaned data used to create visualizations
                                                   
 ### Network graph
 [networkanalysis.py](../blob/master/network%20analysis.py): extracts desired subset of cleaned data and conducts basic network analysis and clustering analysis.
+
 1. Basic Analysis with [igraph](../blob/master/network%20analysis.py)
 <img src = "Images/Genre Network igraph.png" height = "400">
 
