@@ -1,4 +1,4 @@
-# Plotly-Visualization
+# (Interactive) Plotly Visualization
 cleaned_data.csv: cleaned data used to create visualizations
 
 ### Visualize the whole dataset - The Big Picture
